@@ -1,7 +1,7 @@
 {
   "id": "apd14-personnel",
   "designation": "APD-14 // PERSONNEL FILES",
-  "description": "Service records for Foundation staff currently or formerly assigned to APD-14.",
+  "description": "Service records for APD personnel currently or formerly assigned to Site APD-14.",
   "minClearance": 1,
-  "order": 2
+  "order": 3
 }

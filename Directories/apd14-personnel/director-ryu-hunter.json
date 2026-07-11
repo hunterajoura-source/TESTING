@@ -2,15 +2,15 @@
   "id": "director-ryu-hunter",
   "type": "document",
   "title": "PERSONNEL FILE: RYU HUNTER",
-  "subtitle": "Site Director, APD-14",
+  "subtitle": "Former Site Director, APD-14",
   "classification": "N/A",
   "clearanceLevel": 2,
   "clearanceLabel": "CONFIDENTIAL",
   "overridable": true,
-  "tags": ["personnel", "site-director", "apd-14"],
-  "date": "2026-01-01",
+  "tags": ["personnel", "site-director", "apd-14", "fugitive"],
+  "date": "2026-06-19",
   "author": "Human Resources, APD-14",
-  "summary": "Current Site Director for APD-14. Oversees archival operations, containment logistics, and personnel welfare.",
+  "summary": "Former Site Director for APD-14. Status: fugitive. See FOUNDATION SECURITY BULLETIN: FUGITIVE ALERT.",
   "order": 0,
-  "body": "**Designation:** Site Director\n\n**Assignment:** APD-14\n\n**Status:** Active\n\n### Summary\n\nRyu Hunter has served as Site Director of APD-14 since its founding, overseeing archival operations, containment logistics, and day-to-day personnel welfare. Performance reviews consistently note a preference for measured protocol enforcement over reactionary discipline, and a hands-on approach to onboarding new researchers personally rather than delegating orientation to subordinates.\n\n### Notes\n\nMaintains parallel administrative ties to other archival projects outside the standard APD network. Cross-referenced but not duplicated in this record."
+  "body": "**Designation:** Site Director (TERMINATED)\n\n**Assignment:** APD-14\n\n**Status:** FUGITIVE. See FOUNDATION SECURITY BULLETIN: FUGITIVE ALERT.\n\n### Summary\n\nRyu Hunter served as Site Director of APD-14 from its founding until 2026-06-18, overseeing archival operations, containment logistics, and the day-to-day welfare of APD's technical staff. Performance reviews across that period were, without exception, strongly positive: a preference for measured protocol enforcement over reactionary discipline, and a hands-on approach to onboarding new researchers personally rather than delegating orientation to subordinates.\n\nThis record is retained for historical accuracy. It should not be read as inconsistent with the events of 2026-06-18. See INCIDENT REPORT: LOSS OF APD-14 (Level 4 clearance) for the full account.\n\n### Notes\n\nMaintained parallel administrative ties to several independent archival and myth-cataloguing projects outside the standard APD network. Those projects are presently under review to determine whether any share infrastructure, funding, or personnel with APD, and whether any pose a continuity risk given Hunter's fugitive status.\n\nWhereabouts unknown. Believed to retain access to decentralized backups of APD proprietary systems."
 }

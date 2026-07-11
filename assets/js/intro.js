@@ -7,6 +7,7 @@ window.APD14 = window.APD14 || {};
     'Redacted does not mean forgotten.',
     'When in doubt, request Level 2 authorization.',
     'Every folder you add to /Directories becomes a directory here automatically.',
+    'Loyalty is not always reciprocated.',
     'Secure. Contain. Protect.'
   ];
 
@@ -62,7 +63,7 @@ window.APD14 = window.APD14 || {};
       NS.fx.scrambleReveal(logo2, 'APD-14', { duration: 900 });
     }, 250);
     setTimeout(function () {
-      NS.fx.scrambleReveal(logoDesig, 'ANOMALOUS PROPERTIES DIVISION', { duration: 700 });
+      NS.fx.scrambleReveal(logoDesig, 'ANOMALOUS PROPERTIES DATABASE', { duration: 700 });
     }, 550);
 
     tipEl.textContent = TIPS[0];
