@@ -1,0 +1,16 @@
+{
+  "id": "director-ryu-hunter",
+  "type": "document",
+  "title": "PERSONNEL FILE: RYU HUNTER",
+  "subtitle": "Site Director, APD-14",
+  "classification": "N/A",
+  "clearanceLevel": 2,
+  "clearanceLabel": "CONFIDENTIAL",
+  "overridable": true,
+  "tags": ["personnel", "site-director", "apd-14"],
+  "date": "2026-01-01",
+  "author": "Human Resources, APD-14",
+  "summary": "Current Site Director for APD-14. Oversees archival operations, containment logistics, and personnel welfare.",
+  "order": 0,
+  "body": "**Designation:** Site Director\n\n**Assignment:** APD-14\n\n**Status:** Active\n\n### Summary\n\nRyu Hunter has served as Site Director of APD-14 since its founding, overseeing archival operations, containment logistics, and day-to-day personnel welfare. Performance reviews consistently note a preference for measured protocol enforcement over reactionary discipline, and a hands-on approach to onboarding new researchers personally rather than delegating orientation to subordinates.\n\n### Notes\n\nMaintains parallel administrative ties to other archival projects outside the standard APD network. Cross-referenced but not duplicated in this record."
+}

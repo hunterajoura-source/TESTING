@@ -1,0 +1,16 @@
+{
+  "id": "incident-report-77",
+  "type": "document",
+  "title": "INCIDENT REPORT 77-\u0394",
+  "subtitle": "Minor Containment Breach, Archival Wing B",
+  "classification": "N/A",
+  "clearanceLevel": 1,
+  "clearanceLabel": "RESTRICTED",
+  "overridable": true,
+  "tags": ["incident", "site-19", "resolved"],
+  "date": "2026-03-30",
+  "author": "Security Officer T. \u2588\u2588\u2588\u2588\u2588",
+  "summary": "A junior researcher held SCP-APD-001 for the full ninety-second interval out of curiosity. No injuries, no breach.",
+  "order": 3,
+  "body": "**Filed by:** Security Officer T. \u2588\u2588\u2588\u2588\u2588\n\n**Location:** Archival Wing B, Site-19\n\n### Summary\n\nAt approximately 02:14, a junior researcher assigned to unrelated cataloguing duties in Archival Wing B removed SCP-APD-001 from its safe without authorization and held it for the full activation interval. The object performed as expected per its standard description. The researcher reported the entry as \"accurate and mildly upsetting\" and returned the object voluntarily.\n\n### Findings\n\nNo anomalous side effects were observed. The safe's lock was found to be non-anomalous and simply left unsecured by the previous shift. Disciplinary action was limited to a formal note in the researcher's file and a mandatory refresher on Form APD-7 procedure.\n\n### Recommendation\n\nInstall a keypad lock on the Wing B document safe. Logged as low-severity; no further action required."
+}

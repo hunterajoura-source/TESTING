@@ -1,0 +1,234 @@
+{
+  "siteName": "S.C.P FOUNDATION: APD-14",
+  "generatedAt": "2026-07-11T17:47:29.669Z",
+  "directoryCount": 4,
+  "fileCount": 8,
+  "directories": [
+    {
+      "folder": "site-19-general-records",
+      "fileCount": 4,
+      "files": [
+        {
+          "id": "welcome-packet",
+          "file": "welcome-packet.json",
+          "type": "document",
+          "title": "ORIENTATION PACKET",
+          "subtitle": "For Newly Assigned Personnel",
+          "classification": "N/A",
+          "clearanceLevel": 0,
+          "clearanceLabel": "UNRESTRICTED",
+          "overridable": true,
+          "tags": [
+            "orientation",
+            "site-19",
+            "read-first"
+          ],
+          "date": "2026-01-04",
+          "author": "APD-14 Records Division",
+          "summary": "Standard-issue orientation packet. Read this before requesting further access.",
+          "body": "## Welcome to APD-14\n\nYou are viewing the archive terminal for **Anomalous Properties Division, Site 14**. This orientation packet is unrestricted and reissued to every new hire, contractor, and visiting researcher.\n\n### How this terminal works\n\nEach folder you can browse is called a **Directory**. Directories contain **Files** -- lore documents, personnel records, incident logs, and the occasional field simulation. You can move around in three ways, and you never have to use more than one of them:\n\n- **Click or tap** any row to open it.\n- **Arrow keys + Enter** to navigate without a mouse.\n- **Type commands** at the prompt if you'd rather drive it like a real terminal -- try `help` for the full list.\n\n### Clearance, in plain terms\n\nEvery file lists the clearance level required to view it, from **LEVEL 0 (Unrestricted)** up to **LEVEL 5 (Cosmic Top Secret)**. Your session starts at Level 0. If you open something above your level, the terminal will warn you and ask you to confirm before proceeding -- some files allow this override, some don't. Nothing here is a real security system; it's a framing device, so read the warnings for flavor rather than an actual locked door.\n\nYou can change your simulated clearance at any time from the status bar, or by typing `clearance` at the prompt.\n\n### A note on redactions\n\nBlocks of `█████` inside a document are intentional. They are not a rendering error, and there is nothing hidden underneath them to reveal.\n\n---\n\nIf you're only here to read, the two directories below this one are a good place to start. If you're APD-14 staff adding new material to this archive, see the README that shipped with this project instead of this packet.\n\n*Secure. Contain. Protect.*",
+          "url": "",
+          "order": 0
+        },
+        {
+          "id": "scp-apd-001",
+          "file": "scp-apd-001.json",
+          "type": "document",
+          "title": "SCP-APD-001",
+          "subtitle": "The Quiet Ledger",
+          "classification": "Safe",
+          "clearanceLevel": 2,
+          "clearanceLabel": "CONFIDENTIAL",
+          "overridable": true,
+          "tags": [
+            "anomalous",
+            "object",
+            "site-19",
+            "cognitohazard-adjacent"
+          ],
+          "date": "2025-08-22",
+          "author": "Dr. ███████",
+          "summary": "A leather-bound ledger that writes a single line whenever its owner is owed an apology they will never receive.",
+          "body": "**Item #:** APD-001\n\n**Object Class:** Safe\n\n### Special Containment Procedures\n\nSCP-APD-001 is stored in a standard document safe in Site-19 Archival Wing B. It requires no climate control. Personnel assigned to SCP-APD-001 for research purposes must submit Form APD-7 and may not remove the object from the archival wing.\n\n### Description\n\nSCP-APD-001 is a leather-bound ledger, 14 cm x 20 cm, containing 212 pages of unlined paper. The cover bears no title. When held by a human subject for longer than ninety consecutive seconds, SCP-APD-001 will open to the next blank page and a single line of text will appear in handwriting matching the subject's own, describing an instance in which someone owed the subject an apology they did not receive.\n\nEntries are historically accurate as far as they can be verified. Subjects have reported the experience as \"unsettling but not unwelcome.\" No entry has ever repeated. SCP-APD-001 has not been observed to run out of blank pages despite consistent use since recovery.\n\n### Addendum APD-001-1\n\nSCP-APD-001 was recovered from an estate sale in ████████, acquired by a Foundation front company after a routine sweep flagged unusual buyer interest in the listing. No anomalous activity was reported at the point of sale. Current hypothesis places SCP-APD-001's origin with an unidentified minor reality-bending entity, designation pending.",
+          "url": "",
+          "order": 1
+        },
+        {
+          "id": "scp-apd-002",
+          "file": "scp-apd-002.json",
+          "type": "document",
+          "title": "SCP-APD-002",
+          "subtitle": "████████████",
+          "classification": "Keter",
+          "clearanceLevel": 4,
+          "clearanceLabel": "TOP SECRET",
+          "overridable": false,
+          "tags": [
+            "anomalous",
+            "keter",
+            "site-19",
+            "active-containment"
+          ],
+          "date": "2026-02-11",
+          "author": "O5-█",
+          "summary": "Access denied at your current clearance. This entry cannot be overridden.",
+          "body": "**Item #:** APD-002\n\n**Object Class:** Keter\n\n### Special Containment Procedures\n\nAccess to full containment procedures requires Level 4 clearance or higher. █████████████████████████████████████████████████.\n\n### Description\n\n████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████.\n\nThis is placeholder test content used to demonstrate the terminal's hard-lock behavior (a file with `\"overridable\": false`). Replace this body once you write the real entry.",
+          "url": "",
+          "order": 2
+        },
+        {
+          "id": "incident-report-77",
+          "file": "incident-report-77.json",
+          "type": "document",
+          "title": "INCIDENT REPORT 77-Δ",
+          "subtitle": "Minor Containment Breach, Archival Wing B",
+          "classification": "N/A",
+          "clearanceLevel": 1,
+          "clearanceLabel": "RESTRICTED",
+          "overridable": true,
+          "tags": [
+            "incident",
+            "site-19",
+            "resolved"
+          ],
+          "date": "2026-03-30",
+          "author": "Security Officer T. █████",
+          "summary": "A junior researcher held SCP-APD-001 for the full ninety-second interval out of curiosity. No injuries, no breach.",
+          "body": "**Filed by:** Security Officer T. █████\n\n**Location:** Archival Wing B, Site-19\n\n### Summary\n\nAt approximately 02:14, a junior researcher assigned to unrelated cataloguing duties in Archival Wing B removed SCP-APD-001 from its safe without authorization and held it for the full activation interval. The object performed as expected per its standard description. The researcher reported the entry as \"accurate and mildly upsetting\" and returned the object voluntarily.\n\n### Findings\n\nNo anomalous side effects were observed. The safe's lock was found to be non-anomalous and simply left unsecured by the previous shift. Disciplinary action was limited to a formal note in the researcher's file and a mandatory refresher on Form APD-7 procedure.\n\n### Recommendation\n\nInstall a keypad lock on the Wing B document safe. Logged as low-severity; no further action required.",
+          "url": "",
+          "order": 3
+        }
+      ],
+      "id": "site-19-general-records",
+      "designation": "SITE-19 // GENERAL RECORDS",
+      "description": "Administrative paperwork, low-sensitivity incident logs, and orientation material for personnel newly assigned to Site-19.",
+      "minClearance": 0,
+      "order": 1,
+      "minClearanceLabel": "UNRESTRICTED"
+    },
+    {
+      "folder": "apd14-personnel",
+      "fileCount": 2,
+      "files": [
+        {
+          "id": "director-ryu-hunter",
+          "file": "director-ryu-hunter.json",
+          "type": "document",
+          "title": "PERSONNEL FILE: RYU HUNTER",
+          "subtitle": "Site Director, APD-14",
+          "classification": "N/A",
+          "clearanceLevel": 2,
+          "clearanceLabel": "CONFIDENTIAL",
+          "overridable": true,
+          "tags": [
+            "personnel",
+            "site-director",
+            "apd-14"
+          ],
+          "date": "2026-01-01",
+          "author": "Human Resources, APD-14",
+          "summary": "Current Site Director for APD-14. Oversees archival operations, containment logistics, and personnel welfare.",
+          "body": "**Designation:** Site Director\n\n**Assignment:** APD-14\n\n**Status:** Active\n\n### Summary\n\nRyu Hunter has served as Site Director of APD-14 since its founding, overseeing archival operations, containment logistics, and day-to-day personnel welfare. Performance reviews consistently note a preference for measured protocol enforcement over reactionary discipline, and a hands-on approach to onboarding new researchers personally rather than delegating orientation to subordinates.\n\n### Notes\n\nMaintains parallel administrative ties to other archival projects outside the standard APD network. Cross-referenced but not duplicated in this record.",
+          "url": "",
+          "order": 0
+        },
+        {
+          "id": "class-d-log-0231",
+          "file": "class-d-log-0231.json",
+          "type": "document",
+          "title": "CLASS-D PERSONNEL LOG D-0231",
+          "subtitle": "Standard Rotation Record",
+          "classification": "N/A",
+          "clearanceLevel": 1,
+          "clearanceLabel": "RESTRICTED",
+          "overridable": true,
+          "tags": [
+            "personnel",
+            "class-d",
+            "apd-14"
+          ],
+          "date": "2026-04-02",
+          "author": "Class-D Management Office",
+          "summary": "Standard rotation and assignment log. Intake, task history, and standard monthly amnesticization schedule.",
+          "body": "**Designation:** D-0231\n\n**Intake Source:** Standard external channel\n\n**Status:** Active, current rotation\n\n### Assignment History\n\nD-0231 has completed three low-risk cataloguing tasks in Archival Wing B under supervised conditions. No anomalous exposure incidents on record. Scheduled for standard monthly amnesticization per policy.\n\n### Notes\n\nRoutine entry, filed for record-keeping completeness only.",
+          "url": "",
+          "order": 1
+        }
+      ],
+      "id": "apd14-personnel",
+      "designation": "APD-14 // PERSONNEL FILES",
+      "description": "Service records for Foundation staff currently or formerly assigned to APD-14.",
+      "minClearance": 1,
+      "order": 2,
+      "minClearanceLabel": "RESTRICTED"
+    },
+    {
+      "folder": "apd14-projects",
+      "fileCount": 1,
+      "files": [
+        {
+          "id": "operation-example-sim",
+          "file": "operation-example-sim.json",
+          "type": "game",
+          "title": "OPERATION: EXAMPLE SIM",
+          "subtitle": "Field Training Simulation",
+          "classification": "",
+          "clearanceLevel": 0,
+          "clearanceLabel": "UNRESTRICTED",
+          "overridable": true,
+          "tags": [
+            "simulation",
+            "training",
+            "placeholder"
+          ],
+          "date": "2026-01-01",
+          "author": "APD-14 Technical Division",
+          "summary": "PLACEHOLDER -- swap the url field below for a real game link (Roblox, itch.io, etc.) and rewrite this entry.",
+          "body": "This is a **placeholder** entry showing how `\"type\": \"game\"` files render -- with a launch button instead of a document body. Replace `title`, `summary`, `url`, and this `body` text with your real game/project details. You can add as many of these as you like inside this directory, or create a brand new directory just for games.",
+          "url": "https://www.roblox.com/games/0000000000/placeholder",
+          "order": 0
+        }
+      ],
+      "id": "apd14-projects",
+      "designation": "APD-14 // FIELD SIMULATIONS",
+      "description": "Training simulations and field exercises maintained by APD-14 Technical Division.",
+      "minClearance": 0,
+      "order": 3,
+      "minClearanceLabel": "UNRESTRICTED"
+    },
+    {
+      "folder": "o5-command",
+      "fileCount": 1,
+      "files": [
+        {
+          "id": "directive-001",
+          "file": "directive-001.json",
+          "type": "document",
+          "title": "OVERSEER DIRECTIVE 001",
+          "subtitle": "████████████████",
+          "classification": "Thaumiel",
+          "clearanceLevel": 5,
+          "clearanceLabel": "COSMIC TOP SECRET",
+          "overridable": false,
+          "tags": [
+            "directive",
+            "o5",
+            "cosmic"
+          ],
+          "date": "2026-01-01",
+          "author": "O5 Council",
+          "summary": "Access denied at your current clearance. This entry cannot be overridden.",
+          "body": "█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████.\n\nPlaceholder test content demonstrating a fully hidden, hard-locked directory + file at maximum clearance. Replace with a real directive once you have one worth hiding.",
+          "url": "",
+          "order": 0
+        }
+      ],
+      "id": "o5-command",
+      "designation": "O5 COMMAND // COSMIC ARCHIVE",
+      "description": "Materials restricted to Overseer Council authorization. Existence of this directory is itself classified below Level 5.",
+      "minClearance": 5,
+      "order": 4,
+      "minClearanceLabel": "COSMIC TOP SECRET"
+    }
+  ]
+}

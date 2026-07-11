@@ -1,0 +1,16 @@
+{
+  "id": "operation-example-sim",
+  "type": "game",
+  "title": "OPERATION: EXAMPLE SIM",
+  "subtitle": "Field Training Simulation",
+  "clearanceLevel": 0,
+  "clearanceLabel": "UNRESTRICTED",
+  "overridable": true,
+  "tags": ["simulation", "training", "placeholder"],
+  "date": "2026-01-01",
+  "author": "APD-14 Technical Division",
+  "summary": "PLACEHOLDER -- swap the url field below for a real game link (Roblox, itch.io, etc.) and rewrite this entry.",
+  "order": 0,
+  "url": "https://www.roblox.com/games/0000000000/placeholder",
+  "body": "This is a **placeholder** entry showing how `\"type\": \"game\"` files render -- with a launch button instead of a document body. Replace `title`, `summary`, `url`, and this `body` text with your real game/project details. You can add as many of these as you like inside this directory, or create a brand new directory just for games."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "o5-command",
+  "designation": "O5 COMMAND // COSMIC ARCHIVE",
+  "description": "Materials restricted to Overseer Council authorization. Existence of this directory is itself classified below Level 5.",
+  "minClearance": 5,
+  "order": 4
+}

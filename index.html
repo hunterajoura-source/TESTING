@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>S.C.P FOUNDATION: APD-14</title>
+<meta name="description" content="APD-14 archive terminal -- restricted lore database.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%230a0a0c'/%3E%3Ctext x='16' y='23' font-family='monospace' font-size='20' fill='%23d9ddd6' text-anchor='middle'%3E%E2%96%88%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=VT323&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<div class="vignette" aria-hidden="true"></div>
+<div class="crt-overlay" aria-hidden="true"></div>
+<div class="flicker-layer" aria-hidden="true"></div>
+
+<section id="intro" class="view" aria-label="Boot sequence">
+  <div class="intro-topbar">
+    <span>LOADING. . . PLEASE WAIT</span>
+    <span>読み込み中. . . 待って下さい</span>
+  </div>
+
+  <div class="intro-subline">
+    <span class="tri">▼</span>
+    <span>LOADING ASSETS, PRESS ANY KEY TO [SKIP]</span>
+    <span>☆</span>
+  </div>
+
+  <div class="intro-progress-row">
+    <span class="tri">▶</span>
+    <span id="progress-phase">MOUNTING ARCHIVE</span>
+    <span class="progress-track" id="progress-track">[····························]</span>
+  </div>
+
+  <div class="intro-sys-lines">
+    <div><span class="tag">[SYS]</span> <span id="intro-elapsed">(00:00) ELAPSED</span></div>
+    <div><span class="tag">[TIP]</span> <span id="intro-tip">Everyone has a style. Find yours.</span></div>
+  </div>
+
+  <div class="intro-logo-wrap">
+    <div class="intro-logo-noise"></div>
+    <div class="intro-logo">
+      <div class="line-1" id="logo-line-1">S.C.P FOUNDATION</div>
+      <div class="line-2" id="logo-line-2">APD-14</div>
+      <div class="designation" id="logo-designation">ANOMALOUS PROPERTIES DIVISION</div>
+    </div>
+  </div>
+
+  <div class="intro-bottombar">
+    <span>❖ You are entering APD-14</span>
+    <span class="jp">「APD-14」起動中</span>
+  </div>
+
+  <div class="intro-skip-hint">press any key, click, or tap to skip</div>
+</section>
+
+<section id="app" class="view" hidden aria-label="APD-14 terminal">
+  <header class="statusbar">
+    <div class="status-left">
+      <span class="status-dot" aria-hidden="true"></span>
+      <span>SESSION ACTIVE</span>
+      <span id="status-clock">00:00:00</span>
+    </div>
+    <div class="status-right">
+      <button type="button" class="clearance-chip" id="clearance-chip">CLEARANCE: L0 (UNRESTRICTED)</button>
+      <button type="button" class="icon-btn" id="sound-toggle">SOUND: ON</button>
+      <button type="button" class="icon-btn" id="reboot-btn">REBOOT</button>
+    </div>
+  </header>
+
+  <main class="terminal-main" id="terminal-main">
+    <h1 class="hub-title" id="hub-title">S.C.P FOUNDATION: APD-14</h1>
+    <p class="hub-subtitle" id="hub-subtitle">Anomalous Properties Division -- Archive Terminal. Select a directory to begin.</p>
+    <div class="breadcrumb" id="breadcrumb"></div>
+    <p class="dir-description" id="dir-description" hidden></p>
+    <div class="listing" id="listing"></div>
+    <div class="fileview" id="fileview" hidden></div>
+  </main>
+
+  <div class="cmdline-wrap">
+    <div class="cmdlog" id="cmdlog"></div>
+    <div class="cmdline">
+      <span class="prompt">APD14&gt;</span>
+      <input id="cmd-input" type="text" autocomplete="off" spellcheck="false" aria-label="Terminal command input" placeholder="type a command, or just click around -- try &quot;help&quot;">
+    </div>
+  </div>
+</section>
+
+<div class="modal-root" id="modal-root" hidden></div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js" defer></script>
+<script src="assets/js/data.js" defer></script>
+<script src="assets/js/fx.js" defer></script>
+<script src="assets/js/ui.js" defer></script>
+<script src="assets/js/intro.js" defer></script>
+<script src="assets/js/commands.js" defer></script>
+<script src="assets/js/app.js" defer></script>
+</body>
+</html>

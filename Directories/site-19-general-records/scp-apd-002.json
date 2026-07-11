@@ -1,0 +1,16 @@
+{
+  "id": "scp-apd-002",
+  "type": "document",
+  "title": "SCP-APD-002",
+  "subtitle": "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
+  "classification": "Keter",
+  "clearanceLevel": 4,
+  "clearanceLabel": "TOP SECRET",
+  "overridable": false,
+  "tags": ["anomalous", "keter", "site-19", "active-containment"],
+  "date": "2026-02-11",
+  "author": "O5-\u2588",
+  "summary": "Access denied at your current clearance. This entry cannot be overridden.",
+  "order": 2,
+  "body": "**Item #:** APD-002\n\n**Object Class:** Keter\n\n### Special Containment Procedures\n\nAccess to full containment procedures requires Level 4 clearance or higher. \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588.\n\n### Description\n\n\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588.\n\nThis is placeholder test content used to demonstrate the terminal's hard-lock behavior (a file with `\"overridable\": false`). Replace this body once you write the real entry."
+}
