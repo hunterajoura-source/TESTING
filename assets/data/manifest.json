@@ -1,12 +1,12 @@
 {
   "siteName": "S.C.P FOUNDATION: APD-14",
-  "generatedAt": "2026-07-11T17:47:29.669Z",
+  "generatedAt": "2026-07-11T23:54:30.758Z",
   "directoryCount": 4,
-  "fileCount": 8,
+  "fileCount": 9,
   "directories": [
     {
       "folder": "site-19-general-records",
-      "fileCount": 4,
+      "fileCount": 5,
       "files": [
         {
           "id": "welcome-packet",
@@ -26,7 +26,7 @@
           "date": "2026-01-04",
           "author": "APD-14 Records Division",
           "summary": "Standard-issue orientation packet. Read this before requesting further access.",
-          "body": "## Welcome to APD-14\n\nYou are viewing the archive terminal for **Anomalous Properties Division, Site 14**. This orientation packet is unrestricted and reissued to every new hire, contractor, and visiting researcher.\n\n### How this terminal works\n\nEach folder you can browse is called a **Directory**. Directories contain **Files** -- lore documents, personnel records, incident logs, and the occasional field simulation. You can move around in three ways, and you never have to use more than one of them:\n\n- **Click or tap** any row to open it.\n- **Arrow keys + Enter** to navigate without a mouse.\n- **Type commands** at the prompt if you'd rather drive it like a real terminal -- try `help` for the full list.\n\n### Clearance, in plain terms\n\nEvery file lists the clearance level required to view it, from **LEVEL 0 (Unrestricted)** up to **LEVEL 5 (Cosmic Top Secret)**. Your session starts at Level 0. If you open something above your level, the terminal will warn you and ask you to confirm before proceeding -- some files allow this override, some don't. Nothing here is a real security system; it's a framing device, so read the warnings for flavor rather than an actual locked door.\n\nYou can change your simulated clearance at any time from the status bar, or by typing `clearance` at the prompt.\n\n### A note on redactions\n\nBlocks of `█████` inside a document are intentional. They are not a rendering error, and there is nothing hidden underneath them to reveal.\n\n---\n\nIf you're only here to read, the two directories below this one are a good place to start. If you're APD-14 staff adding new material to this archive, see the README that shipped with this project instead of this packet.\n\n*Secure. Contain. Protect.*",
+          "body": "## Welcome to APD-14\n\nYou are viewing the archive terminal for **APD (Anomalous Properties Database), Site 14**, an independent technology partner licensed by the SCP Foundation. This orientation packet is unrestricted and reissued to every new hire, contractor, and visiting researcher.\n\n### How this terminal works\n\nEach folder you can browse is called a **Directory**. Directories contain **Files** -- lore documents, personnel records, incident logs, and the occasional field simulation. You can move around in three ways, and you never have to use more than one of them:\n\n- **Click or tap** any row to open it.\n- **Arrow keys + Enter** to navigate without a mouse.\n- **Type commands** at the prompt if you'd rather drive it like a real terminal -- try `help` for the full list.\n\n### Clearance, in plain terms\n\nEvery file lists the clearance level required to view it, from **LEVEL 0 (Unrestricted)** up to **LEVEL 5 (Cosmic Top Secret)**. Your session starts at Level 0. If you open something above your level, the terminal will warn you and ask you to confirm before proceeding -- some files allow this override, some don't. Nothing here is a real security system; it's a framing device, so read the warnings for flavor rather than an actual locked door.\n\nYou can change your simulated clearance at any time from the status bar, or by typing `clearance` at the prompt.\n\n### A note on redactions\n\nBlocks of `█████` inside a document are intentional. They are not a rendering error, and there is nothing hidden underneath them to reveal.\n\n---\n\nIf you're only here to read, the directories below this one are a good place to start. Recent hires should also review **APD // CORPORATE HISTORY & INCIDENT ARCHIVE** before requesting further access. If you're APD-14 staff adding new material to this archive, see the README that shipped with this project instead of this packet.\n\n*Secure. Contain. Protect.*",
           "url": "",
           "order": 0
         },
@@ -97,6 +97,29 @@
           "body": "**Filed by:** Security Officer T. █████\n\n**Location:** Archival Wing B, Site-19\n\n### Summary\n\nAt approximately 02:14, a junior researcher assigned to unrelated cataloguing duties in Archival Wing B removed SCP-APD-001 from its safe without authorization and held it for the full activation interval. The object performed as expected per its standard description. The researcher reported the entry as \"accurate and mildly upsetting\" and returned the object voluntarily.\n\n### Findings\n\nNo anomalous side effects were observed. The safe's lock was found to be non-anomalous and simply left unsecured by the previous shift. Disciplinary action was limited to a formal note in the researcher's file and a mandatory refresher on Form APD-7 procedure.\n\n### Recommendation\n\nInstall a keypad lock on the Wing B document safe. Logged as low-severity; no further action required.",
           "url": "",
           "order": 3
+        },
+        {
+          "id": "wanted-ryu-hunter",
+          "file": "ryuwanted.json",
+          "type": "document",
+          "title": "FOUNDATION SECURITY BULLETIN: FUGITIVE ALERT",
+          "subtitle": "RYU HUNTER -- CONSIDERED ARMED AND EXTREMELY DANGEROUS",
+          "classification": "N/A",
+          "clearanceLevel": 1,
+          "clearanceLabel": "RESTRICTED",
+          "overridable": true,
+          "tags": [
+            "wanted",
+            "fugitive",
+            "security-bulletin",
+            "ryu-hunter"
+          ],
+          "date": "2026-06-19",
+          "author": "Foundation Internal Security Division",
+          "summary": "Widely circulated fugitive bulletin. All personnel are required to review.",
+          "body": "All personnel are required to review this bulletin in full.\n\n**SUBJECT:** Ryu Hunter\n\n**FORMER POSITION:** Site Director, APD-14 (Anomalous Properties Database)\n\n**STATUS:** At large. Whereabouts unknown since 2026-06-18.\n\n### Charges\n\nRyu Hunter is wanted in connection with the following, arising from the loss of APD-14 on 2026-06-18:\n\n- Unauthorized activation of a facility self-destruct protocol, resulting in the total loss of APD-14's central systems core.\n- The deaths of three sitting Overseer Council members present at APD-14 at the time of the incident.\n- Destruction of Foundation-licensed proprietary technology.\n\n### Assessment\n\nHunter holds detailed working knowledge of APD's proprietary containment-monitoring systems and is believed to retain access to decentralized backups of that technology. Hunter should be considered a serious risk to any Foundation facility making use of APD-derived infrastructure, which, as of this filing, includes a majority of active Sites.\n\n### Instructions\n\nDo not approach. Do not attempt to engage or detain. If Hunter is sighted, secure the immediate area, restrict all APD-derived system access at that location, and contact Internal Security immediately through standard emergency channels.\n\nThis bulletin will be updated as new information becomes available.",
+          "url": "",
+          "order": 4
         }
       ],
       "id": "site-19-general-records",
@@ -107,6 +130,65 @@
       "minClearanceLabel": "UNRESTRICTED"
     },
     {
+      "folder": "apd14-history",
+      "fileCount": 2,
+      "files": [
+        {
+          "id": "incident-report-apd14-collapse",
+          "file": "apd-incident.json",
+          "type": "document",
+          "title": "INCIDENT REPORT: LOSS OF APD-14",
+          "subtitle": "Internal Security Division, Post-Incident Review",
+          "classification": "Critical",
+          "clearanceLevel": 4,
+          "clearanceLabel": "TOP SECRET",
+          "overridable": false,
+          "tags": [
+            "incident",
+            "classified",
+            "apd-14",
+            "council",
+            "ryu-hunter"
+          ],
+          "date": "2026-06-18",
+          "author": "Internal Security Division",
+          "summary": "Access denied at your current clearance. This entry cannot be overridden.",
+          "body": "### Summary\n\nOn 2026-06-18, APD-14 suffered the total loss of its central systems core following the unauthorized activation of a facility-wide self-destruct protocol. Three sitting members of the Overseer Council, present at APD-14 for a scheduled asset review, were killed during the resulting evacuation failure. The individual responsible, former APD-14 Site Director Ryu Hunter, remains at large.\n\n### Background\n\nThe self-destruct protocol activated was not a Foundation system. It was built into APD-14's original architecture by APD itself, designed to destroy proprietary systems and data beyond recovery in the event of a hostile seizure attempt by a third party such as the Global Occult Coalition. It had never been triggered outside of testing. It was not designed with the Foundation itself as a threat model.\n\nThe \"asset review\" scheduled for 2026-06-18 was, per subsequently recovered internal correspondence, the first formal session of a Council-ordered transition: the dissolution of APD's exclusive license and the direct absorption of its proprietary systems into Foundation infrastructure, staff retained at the Council's discretion. Site Director Hunter was not informed of this in advance through official channels.\n\n### Sequence of Events\n\nRecovered logs place Hunter in the central systems core roughly forty minutes before the review was scheduled to begin. ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████. The self-destruct sequence began at approximately 14:02 local time.\n\nEvacuation protocols for the wing hosting the review were not initiated by facility systems. Security footage from the two adjoining corridors was among the data destroyed. What can be confirmed: three Council members present for the review, designated O5-███, O5-████, and O5-█████, did not leave the wing before the systems core detonated. Their deaths are not attributed to the blast itself.\n\n### Status of Ryu Hunter\n\nHunter left APD-14 by unknown means prior to the facility's emergency lockdown and has not been located. A Foundation-wide security bulletin has been issued at Level 1 clearance (see FOUNDATION SECURITY BULLETIN: FUGITIVE ALERT). Hunter is believed to retain access to decentralized backups of APD's proprietary systems and should be considered both armed and technically capable of compromising APD-derived infrastructure elsewhere.\n\n### Addendum\n\nThe exclusive license between the Foundation and APD is, as of this filing, suspended pending full review. APD-14 remains standing under Internal Security oversight. This archive is what could be recovered.",
+          "url": "",
+          "order": 0
+        },
+        {
+          "id": "founding-and-partnership",
+          "file": "founding.json",
+          "type": "document",
+          "title": "APD: FOUNDING & FOUNDATION PARTNERSHIP",
+          "subtitle": "A Corporate History",
+          "classification": "N/A",
+          "clearanceLevel": 2,
+          "clearanceLabel": "CONFIDENTIAL",
+          "overridable": true,
+          "tags": [
+            "history",
+            "apd",
+            "founding",
+            "partnership"
+          ],
+          "date": "2024-11-01",
+          "author": "APD Corporate Archives",
+          "summary": "How a private engineering firm became the Foundation's most trusted outside contractor, and how APD-14 became its flagship site.",
+          "body": "## Origins\n\nAPD, Anomalous Properties Database, was founded in 2013 as a private systems engineering firm with no formal ties to the Foundation. Its founding engineers specialized in high-integrity data architecture: systems built to hold enormous volumes of sensitive material without losing a byte, without leaking a byte, and without going down.\n\nThe Foundation found them almost by accident. Following a catastrophic archival corruption event at a mid-sized Site in 2016, three independent audits failed to recover the lost containment records. APD's proposal was the fourth. It worked in six weeks, and it worked completely.\n\n## The Exclusive License\n\nWhat began as a single recovery contract became, over the following two years, a full licensing agreement. The Foundation does not typically permit outside vendors anywhere near classified material, but the volume of anomalous data being generated Foundation-wide had begun to outpace the Foundation's own engineering divisions. APD offered a solution the Foundation could not build fast enough internally: containment-monitoring software, predictive breach-detection systems, and the database architecture underlying entire Sites' record-keeping.\n\nIn exchange for exclusivity, meaning no other outside contractor would be permitted the access APD was granted, APD accepted the Foundation's full security regime: amnestic-backed nondisclosure agreements for every employee, mandatory cognitohazard-safety certification, and unannounced compliance audits. It was, by outside-vendor standards, an extraordinarily invasive arrangement. APD's leadership signed it without hesitation.\n\n## Growth and APD-14\n\nAPD expanded quickly. Individual facilities were designated numerically in the order they were established. APD-14, built to serve Site-19's rapidly growing technical footprint, became the company's flagship location: its largest engineering staff, its primary research campus, and eventually the seat of its executive leadership.\n\nAs APD's systems became load-bearing for entire Sites' day-to-day operations, standard Foundation Mobile Task Forces proved poorly suited to responding to failures in hardware and software most of them had never been trained on. With Foundation approval, APD raised its own limited security and technical-response teams: personnel cleared to operate inside active containment environments, but answerable to APD's own chain of command rather than the Foundation's.\n\nBy its tenth year of operation, APD held a designation prefix of its own, SCP-APD-, reserved for anomalies catalogued through APD's systems. It is a level of integration rarely extended to anyone outside the Foundation itself.\n\n## Addendum\n\nAPD-14 suffered a catastrophic systems loss on 2026-06-18. Details of the incident, and the security bulletin concerning former Site Director Ryu Hunter, are filed separately at Level 4 and Level 1 clearance respectively. This document has not been rewritten to reflect those events. It is preserved as it was filed, for the historical record.",
+          "url": "",
+          "order": 1
+        }
+      ],
+      "id": "apd-history",
+      "designation": "APD // CORPORATE HISTORY & INCIDENT ARCHIVE",
+      "description": "Founding records, partnership history, and post-incident review materials concerning APD and the APD-14 facility.",
+      "minClearance": 1,
+      "order": 2,
+      "minClearanceLabel": "RESTRICTED"
+    },
+    {
       "folder": "apd14-personnel",
       "fileCount": 2,
       "files": [
@@ -115,7 +197,7 @@
           "file": "director-ryu-hunter.json",
           "type": "document",
           "title": "PERSONNEL FILE: RYU HUNTER",
-          "subtitle": "Site Director, APD-14",
+          "subtitle": "Former Site Director, APD-14",
           "classification": "N/A",
           "clearanceLevel": 2,
           "clearanceLabel": "CONFIDENTIAL",
@@ -123,12 +205,13 @@
           "tags": [
             "personnel",
             "site-director",
-            "apd-14"
+            "apd-14",
+            "fugitive"
           ],
-          "date": "2026-01-01",
+          "date": "2026-06-19",
           "author": "Human Resources, APD-14",
-          "summary": "Current Site Director for APD-14. Oversees archival operations, containment logistics, and personnel welfare.",
-          "body": "**Designation:** Site Director\n\n**Assignment:** APD-14\n\n**Status:** Active\n\n### Summary\n\nRyu Hunter has served as Site Director of APD-14 since its founding, overseeing archival operations, containment logistics, and day-to-day personnel welfare. Performance reviews consistently note a preference for measured protocol enforcement over reactionary discipline, and a hands-on approach to onboarding new researchers personally rather than delegating orientation to subordinates.\n\n### Notes\n\nMaintains parallel administrative ties to other archival projects outside the standard APD network. Cross-referenced but not duplicated in this record.",
+          "summary": "Former Site Director for APD-14. Status: fugitive. See FOUNDATION SECURITY BULLETIN: FUGITIVE ALERT.",
+          "body": "**Designation:** Site Director (TERMINATED)\n\n**Assignment:** APD-14\n\n**Status:** FUGITIVE. See FOUNDATION SECURITY BULLETIN: FUGITIVE ALERT.\n\n### Summary\n\nRyu Hunter served as Site Director of APD-14 from its founding until 2026-06-18, overseeing archival operations, containment logistics, and the day-to-day welfare of APD's technical staff. Performance reviews across that period were, without exception, strongly positive: a preference for measured protocol enforcement over reactionary discipline, and a hands-on approach to onboarding new researchers personally rather than delegating orientation to subordinates.\n\nThis record is retained for historical accuracy. It should not be read as inconsistent with the events of 2026-06-18. See INCIDENT REPORT: LOSS OF APD-14 (Level 4 clearance) for the full account.\n\n### Notes\n\nMaintained parallel administrative ties to several independent archival and myth-cataloguing projects outside the standard APD network. Those projects are presently under review to determine whether any share infrastructure, funding, or personnel with APD, and whether any pose a continuity risk given Hunter's fugitive status.\n\nWhereabouts unknown. Believed to retain access to decentralized backups of APD proprietary systems.",
           "url": "",
           "order": 0
         },
@@ -157,78 +240,21 @@
       ],
       "id": "apd14-personnel",
       "designation": "APD-14 // PERSONNEL FILES",
-      "description": "Service records for Foundation staff currently or formerly assigned to APD-14.",
+      "description": "Service records for APD personnel currently or formerly assigned to Site APD-14.",
       "minClearance": 1,
-      "order": 2,
+      "order": 3,
       "minClearanceLabel": "RESTRICTED"
     },
     {
       "folder": "apd14-projects",
-      "fileCount": 1,
-      "files": [
-        {
-          "id": "operation-example-sim",
-          "file": "operation-example-sim.json",
-          "type": "game",
-          "title": "OPERATION: EXAMPLE SIM",
-          "subtitle": "Field Training Simulation",
-          "classification": "",
-          "clearanceLevel": 0,
-          "clearanceLabel": "UNRESTRICTED",
-          "overridable": true,
-          "tags": [
-            "simulation",
-            "training",
-            "placeholder"
-          ],
-          "date": "2026-01-01",
-          "author": "APD-14 Technical Division",
-          "summary": "PLACEHOLDER -- swap the url field below for a real game link (Roblox, itch.io, etc.) and rewrite this entry.",
-          "body": "This is a **placeholder** entry showing how `\"type\": \"game\"` files render -- with a launch button instead of a document body. Replace `title`, `summary`, `url`, and this `body` text with your real game/project details. You can add as many of these as you like inside this directory, or create a brand new directory just for games.",
-          "url": "https://www.roblox.com/games/0000000000/placeholder",
-          "order": 0
-        }
-      ],
+      "fileCount": 0,
+      "files": [],
       "id": "apd14-projects",
       "designation": "APD-14 // FIELD SIMULATIONS",
-      "description": "Training simulations and field exercises maintained by APD-14 Technical Division.",
+      "description": "Training simulations and field exercises maintained by APD engineering staff.",
       "minClearance": 0,
-      "order": 3,
-      "minClearanceLabel": "UNRESTRICTED"
-    },
-    {
-      "folder": "o5-command",
-      "fileCount": 1,
-      "files": [
-        {
-          "id": "directive-001",
-          "file": "directive-001.json",
-          "type": "document",
-          "title": "OVERSEER DIRECTIVE 001",
-          "subtitle": "████████████████",
-          "classification": "Thaumiel",
-          "clearanceLevel": 5,
-          "clearanceLabel": "COSMIC TOP SECRET",
-          "overridable": false,
-          "tags": [
-            "directive",
-            "o5",
-            "cosmic"
-          ],
-          "date": "2026-01-01",
-          "author": "O5 Council",
-          "summary": "Access denied at your current clearance. This entry cannot be overridden.",
-          "body": "█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████.\n\nPlaceholder test content demonstrating a fully hidden, hard-locked directory + file at maximum clearance. Replace with a real directive once you have one worth hiding.",
-          "url": "",
-          "order": 0
-        }
-      ],
-      "id": "o5-command",
-      "designation": "O5 COMMAND // COSMIC ARCHIVE",
-      "description": "Materials restricted to Overseer Council authorization. Existence of this directory is itself classified below Level 5.",
-      "minClearance": 5,
       "order": 4,
-      "minClearanceLabel": "COSMIC TOP SECRET"
+      "minClearanceLabel": "UNRESTRICTED"
     }
   ]
 }
